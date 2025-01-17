@@ -5,13 +5,13 @@
 Pod::Spec.new do |s|
   s.name             = 'flutter_novel_story'
   s.version          = '1.0.0'
-  s.summary          = 'A new Flutter plugin project.'
+  s.summary          = '一款优质的 Flutter 小说变现插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现'
   s.description      = <<-DESC
-A new Flutter plugin project.
+一款优质的 Flutter 小说变现插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现
                        DESC
-  s.homepage         = 'http://example.com'
+  s.homepage         = 'https://flutterads.top'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Company' => 'email@example.com' }
+  s.author           = { 'FlutterAds' => 'https://flutterads.top' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'

@@ -1,5 +1,5 @@
-<h1 align="center">📱 Flutter Novel Story </h1>
-<h3 align="center">一款优质的小说变现 Flutter 插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现</h3>
+<h1 align="center">📚 Flutter Novel Story </h1>
+<h3 align="center">一款优质的 Flutter 小说变现插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现</h3>
 <p align="center">♻️ 持续更新 ♻️</p>
 
 <p align="center">

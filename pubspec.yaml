@@ -1,5 +1,5 @@
 name: flutter_novel_story
-description: "一款优质的小说变现 Flutter 插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现"
+description: "一款优质的 Flutter 小说变现插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现"
 version: 1.0.0
 homepage: https://flutterads.top
 repository: https://github.com/FlutterAds/flutter_novel_story
