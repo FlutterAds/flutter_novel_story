@@ -1,0 +1,36 @@
+name: flutter_novel_story
+description: "一款优质的小说变现 Flutter 插件，帮你快速接入近万部小说，内置功能强大的阅读器，接入即可开始变现"
+version: 1.0.0
+homepage: https://flutterads.top
+repository: https://github.com/FlutterAds/flutter_novel_story
+issue_tracker: https://github.com/FlutterAds/flutter_novel_story/issues
+documentation: https://flutterads.top
+topics: [flutterads, ads, novel, story, income]
+funding: [https://github.com/FlutterAds/.github]
+
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.zero.flutter_novel_story
+        pluginClass: FlutterNovelStoryPlugin
+      ios:
+        pluginClass: FlutterNovelStoryPlugin
